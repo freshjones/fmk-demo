@@ -8,6 +8,8 @@
 {
 	font-size:150%;
 	font-weight: normal;
+	
+	text-shadow: 0.07em 0.07em 0.05em rgba(0,0,0,.8);
 }
 
 .luxury .spotlights .head,
@@ -18,10 +20,12 @@
 
 .spotlights .subhead
 {
+	text-shadow: 0.1em 0.1em 0.1em rgba(0,0,0,.8);
 	text-transform: uppercase;
 	font-size:75%;
 	font-weight: normal;
 	color:#fff;
+	margin-bottom: 5px;
 }
 
 .spotlights
