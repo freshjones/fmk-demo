@@ -260,6 +260,12 @@ control-table .last
 {
 	padding:0 15px;
 }
+
+.control-title
+{
+	display:none;
+}
+
 .heading,
 .subheading
 {
@@ -369,26 +375,15 @@ control-table .last
 }
 
 
-.luxury .logo
-{
-	background-color:#b11216;
-}
 
-.luxury .subheading
+.bottom-controls li.active
 {
-	color:#b11216;
-}
-
-
-.luxury .bottom-controls li.active
-{
-	background-color:#b11216;
 	min-height: 60px;
 	_height: 60px;
 	margin-top:0;
 }
 
-.luxury .bottom-controls li.active a
+.bottom-controls li.active a
 {
 	color:#000;
 }
@@ -443,5 +438,10 @@ control-table .last
 	font-weight:normal;
 	font-size:80%;
 }
- 
+
+
+.bg-images { position: fixed; top: 0; left: 0; }
+.bgwidth { width: 100%; }
+.bgheight { height: 100%; }
+
     

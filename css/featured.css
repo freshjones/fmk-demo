@@ -1,10 +1,17 @@
 @CHARSET "UTF-8";
 
+.feature
+{
+	display:none;
+}
+
 .featured-wrapper
 {
 	position: absolute;
 	width: 100%;
 	margin-top: -75px;
+	
+	-webkit-font-smoothing: antialiased;	
 }
 .featured-wrapper-inner
 {
@@ -76,10 +83,6 @@
 	margin-bottom:2px;
 }
 
-.luxury .featured-content .subhead
-{
-	color: #b11216;
-}
 
 .featured-content .head
 {

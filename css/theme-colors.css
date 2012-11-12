@@ -1,0 +1,118 @@
+@CHARSET "UTF-8";
+
+
+
+.tab-theme-0 .logo,
+.tab-theme-0 .bottom-controls li.active
+{
+	background-color:#D54F87;
+}
+
+.tab-theme-0 .spotlights .head,
+.tab-theme-0 .spotlights .head a,
+.tab-theme-0 .featured-content .subhead,
+.tab-theme-0 .subheading
+{
+	color: #D54F87;
+}
+
+.tab-theme-1 .logo,
+.tab-theme-1 .bottom-controls li.active
+{
+	background-color:#DFAF4A;
+}
+
+.tab-theme-1 .spotlights .head,
+.tab-theme-1 .spotlights .head a,
+.tab-theme-1 .featured-content .subhead,
+.tab-theme-1 .subheading
+{
+	color: #DFAF4A;
+}
+
+
+.tab-theme-2 .logo,
+.tab-theme-2 .bottom-controls li.active
+{
+	background-color:#b11216;
+}
+
+.tab-theme-2 .spotlights .head,
+.tab-theme-2 .spotlights .head a,
+.tab-theme-2 .featured-content .subhead,
+.tab-theme-2 .subheading
+{
+	color: #b11216;
+}
+
+.tab-theme-3 .logo,
+.tab-theme-3 .bottom-controls li.active
+{
+	background-color:#F3501A;
+}
+
+.tab-theme-3 .spotlights .head,
+.tab-theme-3 .spotlights .head a,
+.tab-theme-3 .featured-content .subhead,
+.tab-theme-3 .subheading
+{
+	color: #F3501A;
+}
+
+
+.tab-theme-4 .logo,
+.tab-theme-4 .bottom-controls li.active
+{
+	background-color:#B5CB3A;
+}
+
+.tab-theme-4 .spotlights .head,
+.tab-theme-4 .spotlights .head a,
+.tab-theme-4 .featured-content .subhead,
+.tab-theme-4 .subheading
+{
+	color: #B5CB3A;
+}
+
+.tab-theme-5 .logo,
+.tab-theme-5 .bottom-controls li.active
+{
+	background-color:#A186AA;
+}
+
+.tab-theme-5 .spotlights .head,
+.tab-theme-5 .spotlights .head a,
+.tab-theme-5 .featured-content .subhead,
+.tab-theme-5 .subheading
+{
+	color: #A186AA;
+}
+
+.tab-theme-6 .logo,
+.tab-theme-6 .bottom-controls li.active
+{
+	background-color:#7D7B7D;
+}
+
+.tab-theme-6 .spotlights .head,
+.tab-theme-6 .spotlights .head a,
+.tab-theme-6 .featured-content .subhead,
+.tab-theme-6 .subheading
+{
+	color: #7D7B7D;
+}
+
+
+.tab-theme-7 .logo,
+.tab-theme-7 .bottom-controls li.active
+{
+	background-color:#008B70;
+}
+
+.tab-theme-7 .spotlights .head,
+.tab-theme-7 .spotlights .head a,
+.tab-theme-7 .featured-content .subhead,
+.tab-theme-7 .subheading
+{
+	color: #008B70;
+}

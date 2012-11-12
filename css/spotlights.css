@@ -2,7 +2,10 @@
 
 
 
-
+.spotlight-group
+{
+	display:none;
+}
 
 .spotlights .head
 {
@@ -12,11 +15,7 @@
 	text-shadow: 0.07em 0.07em 0.05em rgba(0,0,0,.8);
 }
 
-.luxury .spotlights .head,
-.luxury .spotlights .head a
-{
-	color: #b11216;
-}
+
 
 .spotlights .subhead
 {
