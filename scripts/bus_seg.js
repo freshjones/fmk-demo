@@ -56,8 +56,8 @@ jQuery(function($){
 			stop_loop				:	0,			// Pauses slideshow on last slide
 			random					: 	0,			// Randomize slide order (Ignores start slide)
 			slide_interval          :   3000,		// Length between transitions
-			transition              :   0, 			// 0-None, 1-Fade
-			transition_speed		:	1000,		// Speed of transition
+			transition              :   7, 			// 0-None, 1-Fade
+			transition_speed		:	750,		// Speed of transition
 			new_window				:	0,			// Image links open in new window/tab
 			pause_hover             :   0,			// Pause slideshow on hover
 			keyboard_nav            :   1,			// Keyboard navigation on/off

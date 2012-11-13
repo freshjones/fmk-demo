@@ -2,6 +2,7 @@
 
 html {
 	height: 100%;
+	-webkit-font-smoothing: antialiased;
 }
 body, .wrapper {
 	margin: 0;

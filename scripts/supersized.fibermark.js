@@ -104,18 +104,27 @@
 	 		
 	 		$.address.value( url );  
 	 		
-	 		$('.controls')
+	 		$('.featured-wrapper-inner, .control-titles, .spotlights').fadeOut('500', function(){
+	 			
+	 			
+	 			$('.controls')
 				.find('.feature:visible, .control-title:visible, .spotlight-group:visible').hide();
 	 		
-	 		$('.controls')
-	 			.find('.feature-' + vars.current_slide + ', .control-title-' + vars.current_slide + ', .spotlight-group-' + vars.current_slide).show();
+		 		$('.controls')
+		 			.find('.feature-' + vars.current_slide + ', .control-title-' + vars.current_slide + ', .spotlight-group-' + vars.current_slide).show();
+		 		
+		 		$('.slide-tab').removeClass('active');
+		 		
+		 		$('.slide-tab-' + vars.current_slide).addClass('active');
+		 		
+		 		$('body').removeClass().addClass('tab-theme-' + vars.current_slide  );
+		 		
+		 		$('.featured-wrapper-inner, .control-titles, .spotlights').fadeIn('500');
+	 			
+	 		});
 	 		
-	 		$('.slide-tab').removeClass('active');
-	 		
-	 		$('.slide-tab-' + vars.current_slide).addClass('active');
 	 		
 	 		
-	 		$('body').removeClass().addClass('tab-theme-' + vars.current_slide  );
 	 	},
 	 	
 	 	
