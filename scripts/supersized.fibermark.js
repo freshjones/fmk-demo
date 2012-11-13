@@ -133,7 +133,7 @@
 	 	afterAnimation : function(){
 	 		
 	 		
-	 	},
+	 	}
 	 	
 	 };
 	 

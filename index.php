@@ -15,7 +15,7 @@
 
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-
+<script type="text/javascript" src="scripts/respond.min.js"></script>
 <script type="text/javascript" src="scripts/jquery.address-1.4.min.js"></script>
 <script type="text/javascript" src="scripts/jquery.easing.min.js"></script>
 <script type="text/javascript" src="scripts/supersized.3.2.7.min.js"></script>
