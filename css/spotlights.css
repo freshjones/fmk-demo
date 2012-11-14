@@ -1,6 +1,9 @@
 @CHARSET "UTF-8";
 
-
+.bottom-spotlights
+{
+	padding-top:40px;
+}
 
 .spotlight-group
 {

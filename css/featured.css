@@ -10,12 +10,12 @@
 	position: absolute;
 	width: 100%;
 	margin-top: -75px;
-	
-		
+	z-index: 10;
 }
 .featured-wrapper-inner
 {
 	position:relative;
+	display:none;
 }
 
 .featured-content-wrapper

@@ -1,5 +1,14 @@
-jQuery(function($){
+(function($){
 	
+	// VERTICALLY ALIGN FUNCTION
+	$.fn.vAlign = function() {
+		return this.each(function(i){
+		var ah = $(this).height();
+		var ph = $(this).parent().height();
+		var mh = Math.ceil((ph-ah) / 2);
+		$(this).css('padding-top', mh);
+		});
+	};
 	
 	$.address.strict(0).history(false).init(function(event) { 
 		
@@ -48,7 +57,7 @@ jQuery(function($){
 	    	var start = parseInt(whichSlideArray[1]) + 1;
 		}
 		*/
-		$.supersized({
+	$.supersized({
 			
 			slideshow               :   1,			// Slideshow on/off
 			autoplay				:	0,		
@@ -56,8 +65,8 @@ jQuery(function($){
 			stop_loop				:	0,			// Pauses slideshow on last slide
 			random					: 	0,			// Randomize slide order (Ignores start slide)
 			slide_interval          :   3000,		// Length between transitions
-			transition              :   7, 			// 0-None, 1-Fade
-			transition_speed		:	750,		// Speed of transition
+			transition              :   1, 			// 0-None, 1-Fade
+			transition_speed		:	500,		// Speed of transition
 			new_window				:	0,			// Image links open in new window/tab
 			pause_hover             :   0,			// Pause slideshow on hover
 			keyboard_nav            :   1,			// Keyboard navigation on/off
@@ -90,7 +99,16 @@ jQuery(function($){
 			
 		});
 		
-		
 	});
 	
+	
+	
+})(jQuery);
+
+$(document).ready(function(){
+	$(".centered").vAlign();
 });
+
+$(window).bind('resize', function(){
+	$(".centered").vAlign();
+}); 

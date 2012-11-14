@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+
+.control-cell-inner
+{
+	
+	border: 1px solid #ccc;
+	border-radius: 8px;
+}
+
+.control-prev,
+.control-next
+{
+	background-color:#fff;
+	opacity : 0.2;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+    filter: alpha(opacity=20);	
+}
+

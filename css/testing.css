@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+.table
+{
+	background:#ffcc00;	
+}
+
+.top-spotlights {
+	background:grey;
+}
+
+.bottom-spotlights {
+	background:orange;
+}
+
+.top-controls
+{
+	background:orange;
+}
+
+.bottom-controls
+{
+	background:blue;
+}
+
+.control-table
+{
+	/* background:red; */
+}

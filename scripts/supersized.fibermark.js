@@ -104,11 +104,11 @@
 	 		
 	 		$.address.value( url );  
 	 		
-	 		$('.featured-wrapper-inner, .control-titles, .spotlights').fadeOut('500', function(){
+	 		$('.featured-wrapper-inner:visible, .control-titles:visible, .spotlights:visible').fadeOut('500', function(){
 	 			
 	 			
 	 			$('.controls')
-				.find('.feature:visible, .control-title:visible, .spotlight-group:visible').hide();
+				.find('.feature, .control-title, .spotlight-group').hide();
 	 		
 		 		$('.controls')
 		 			.find('.feature-' + vars.current_slide + ', .control-title-' + vars.current_slide + ', .spotlight-group-' + vars.current_slide).show();

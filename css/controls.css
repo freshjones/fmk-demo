@@ -1,0 +1,117 @@
+@CHARSET "UTF-8";
+
+
+.control-table .first
+{
+	padding-left:0;
+}
+
+.control-table .last
+{
+	padding-right:0;
+}
+
+
+.control-cell .wrapper {
+    border-collapse: separate;
+    border-spacing: 0;
+	background:none;
+}
+
+.control-cell-inner
+{
+	
+	border: 1px solid rgba(255, 255, 255, .3);
+	border-radius: 8px;
+}
+
+.control-prev,
+.control-next
+{
+	background: rgba(255, 255, 255, 0.1);
+}
+
+.control-prev
+{
+	border-radius: 0 8px 8px 0;
+	border-left:0px;
+}
+
+.control-next
+{
+	border-radius: 8px 0 0 8px;
+	border-right:0px;
+}
+
+.control-content
+{
+	background: rgba(0,0,0, .8);
+}
+
+.controls td.control-cell
+{
+	height: 140px;
+	text-align: center;
+}
+
+.control-table
+{
+	margin-top: 75px;
+	width:100%;
+}
+
+.control-titles
+{
+	display:none;
+}
+
+.control-cell
+{
+	padding: 0 10px;
+	width:30%;
+	vertical-align: bottom;
+}
+
+.control-table .first,
+control-table .last
+{
+	width:20%;
+}
+
+.control-prev .control-button
+{
+	background-image: url(../images/controller-prev.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.control-next .control-button
+{
+	background-image: url(../images/controller-next.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.control-prev .control-button,
+.control-next .control-button
+{
+	display: block;
+    height: 100%;
+    width: auto;
+}
+
+.control-prev .control-button span,
+.control-next .control-button span
+{
+	display:none;
+}
+
+.control-content-inner
+{
+	padding:0 15px;
+}
+
+.control-title
+{
+	display:none;
+}
