@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" class="no-js">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>FiberMark Inc.</title>
@@ -13,7 +13,7 @@
 
 <link rel="stylesheet" href="css/media.css" type="text/css" media="screen" />
 
-<!--  <link rel="stylesheet" href="css/testing.css" type="text/css" media="screen" />  -->
+<link rel="stylesheet" href="css/testing.css" type="text/css" media="screen" /> 
 
 <!--[if IE]>
 	<link rel="stylesheet" href="css/ie.css" type="text/css" media="screen" />
@@ -26,6 +26,8 @@
 <script type="text/javascript" src="scripts/supersized.3.2.7.js"></script>
 <script type="text/javascript" src="scripts/supersized.fibermark.js"></script>
 <script type="text/javascript" src="scripts/bus_seg.js"></script>
+
+
 
 </head>
 
@@ -102,7 +104,7 @@
 <div class="controls">
 	<div class="top-controls">
 		<div class="top-spotlights">
-			<div class="bottomed hcentered">
+			<div class="top-spotlights-inner bottomed hcentered">
 				
 				<div class="featured-wrapper">
 					<div class="featured-wrapper-inner">

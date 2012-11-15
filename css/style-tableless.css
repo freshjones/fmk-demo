@@ -220,6 +220,12 @@ a
 		
 	}
 	
+	.top-spotlights-inner
+	{
+		position:absolute;
+		left:0;
+	}
+	
 	.top-controls
 	{
 		text-align:center;

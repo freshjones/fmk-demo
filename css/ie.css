@@ -1,6 +1,7 @@
 @CHARSET "UTF-8";
 
 
+
 .control-cell-inner
 {
 	
@@ -11,17 +12,63 @@
 .control-prev,
 .control-next
 {
-	background-color:#fff;
-	opacity : 0.2;
-    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
-    filter: alpha(opacity=20);	
+	/* -pie-background: rgba(255,255,255,.2); */
 }
 
 .control-content
 {
 	background-color:#000;
-	opacity : 0.9;
-    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
-    filter: alpha(opacity=90);
+
+}
+
+
+.bottom-controls li, .control-cell-inner
+{
+	/* behavior: url(/scripts/PIE.htc); */
+}
+
+
+.bottom-controls li
+{
+	position:relative;
 	
+	/* -pie-border-radius: 8px 8px 0 0;  */
+	
+}
+
+
+.control-prev
+{
+	/* -pie-border-radius: 0 8px 8px 0;  */
+
+}
+
+.control-next
+{
+	/* -pie-border-radius: 8px 0 0 8px;  */
+}
+
+.search input
+{
+   /*  -pie-border-radius: 3px;  */
+	border: 1px solid #999;
+
+}
+
+.top-controls
+{
+	height:90%;
+	
+}
+
+
+.top-spotlights .bottomed
+{
+	position:absolute;
+	left:0;
+}
+
+.featured-wrapper
+{
+	text-align:left;
 }

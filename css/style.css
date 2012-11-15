@@ -356,6 +356,8 @@ control-table .last
 	border-radius: 8px 8px 0 0;
 	font-size:75%;
 	color:#fff;
+	
+	behavior: url(/scripts/PIE.htc);
 }
 
 .bottom-controls li a
