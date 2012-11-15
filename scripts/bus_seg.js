@@ -57,7 +57,7 @@
 	    	var start = parseInt(whichSlideArray[1]) + 1;
 		}
 		*/
-	$.supersized({
+ 		$.supersized({
 			
 			slideshow               :   1,			// Slideshow on/off
 			autoplay				:	0,		

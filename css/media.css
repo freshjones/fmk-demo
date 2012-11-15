@@ -1,6 +1,15 @@
 @CHARSET "UTF-8";
 
-@media all and (min-width: 1225px) {
+/* 75em = 1200px / 16 */
+/*
+@media screen and (max-width: 70em) {
+	
+	
+}
+*/
+
+/* 75em = 1200px / 16 */
+@media screen and (min-width: 75em) {
 
 	.right,
 	.left
@@ -124,7 +133,9 @@
 
 }
 
-@media all and (min-width: 1300px)  {
+/* 81em = 1296px / 16 */
+
+@media screen and (min-width: 81em)  {
 	
 
 	.bottom-controls li
@@ -140,7 +151,8 @@
 	
 }
 
-@media all and (min-width: 1440px)   {
+/* 90em = 1440px / 16 */
+@media screen and (min-width: 90em)   {
 	
 
 	.bottom-controls li
@@ -167,8 +179,8 @@
 	
 }
 
-
-@media all and (min-width: 1595px)   {
+/* 95em = 1520px / 16 */
+@media screen and (min-width: 95em)   {
 	
 
 	
@@ -229,8 +241,8 @@
 	
 }
 
-
-@media all and (min-width: 1750px)   {
+/* 100em = 1680px / 16 */
+@media screen and (min-width: 105em)   {
 	
 
 	.controls td.control-cell

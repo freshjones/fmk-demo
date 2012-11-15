@@ -17,3 +17,11 @@
     filter: alpha(opacity=20);	
 }
 
+.control-content
+{
+	background-color:#000;
+	opacity : 0.9;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+    filter: alpha(opacity=90);
+	
+}

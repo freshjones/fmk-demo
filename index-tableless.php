@@ -23,7 +23,7 @@
 <script type="text/javascript" src="scripts/respond.min.js"></script>
 <script type="text/javascript" src="scripts/jquery.address-1.4.min.js"></script>
 <script type="text/javascript" src="scripts/jquery.easing.min.js"></script>
-<script type="text/javascript" src="scripts/supersized.3.2.7.min.js"></script>
+<script type="text/javascript" src="scripts/supersized.3.2.7.js"></script>
 <script type="text/javascript" src="scripts/supersized.fibermark.js"></script>
 <script type="text/javascript" src="scripts/bus_seg.js"></script>
 
