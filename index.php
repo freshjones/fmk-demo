@@ -5,7 +5,7 @@
 <title>FiberMark Inc.</title>
 <link rel="stylesheet" href="css/supersized.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="screen" />
-<link rel="stylesheet" href="css/style-tableless.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/theme-colors.css" type="text/css" media="screen" />
 <link rel="stylesheet" href="css/media.css" type="text/css" media="screen" />
 
