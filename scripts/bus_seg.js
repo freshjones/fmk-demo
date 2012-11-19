@@ -107,6 +107,13 @@
 
 $(document).ready(function(){
 	$(".centered").vAlign();
+	
+	$('.menu-toggle').click(function(){
+		
+		$('.menu').slideToggle('slow');
+		
+	})
+	
 });
 
 $(window).bind('resize', function(){

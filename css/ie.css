@@ -12,7 +12,7 @@
 .control-prev,
 .control-next
 {
-	/* -pie-background: rgba(255,255,255,.2); */
+	-pie-background: rgba(255,255,255,.2);
 }
 
 .control-content
@@ -24,43 +24,40 @@
 
 .bottom-controls li, .control-cell-inner
 {
-	/* behavior: url(/scripts/PIE.htc); */
+	behavior: url(/scripts/PIE.htc);
 }
 
 
 .bottom-controls li
 {
 	position:relative;
-	
-	/* -pie-border-radius: 8px 8px 0 0;  */
+	border: 1px solid #999;
+	-pie-border-radius: 8px 8px 0 0;
 	
 }
 
 
 .control-prev
 {
-	/* -pie-border-radius: 0 8px 8px 0;  */
+	-pie-border-radius: 0 8px 8px 0;
 
 }
 
 .control-next
 {
-	/* -pie-border-radius: 8px 0 0 8px;  */
+	-pie-border-radius: 8px 0 0 8px;
 }
 
 .search input
 {
-   /*  -pie-border-radius: 3px;  */
+	-pie-border-radius: 3px;
 	border: 1px solid #999;
-
 }
 
 .top-controls
 {
 	height:90%;
-	
 }
-
 
 .top-spotlights .bottomed
 {
@@ -72,3 +69,4 @@
 {
 	text-align:left;
 }
+

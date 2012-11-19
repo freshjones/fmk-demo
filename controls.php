@@ -1,15 +1,15 @@
 <table class="control-table">
 	<tr>
-		<td class="control-cell first">
+		<td class="control-cell control-cell-nav first">
 		
 			<table class="wrapper">
 				<tr>
-					<td class="control-cell-inner control-prev"><span id="prevslide"><span>Prev</span></span></td>
+					<td class="control-cell-inner control-prev"><div id="prevslide" class="control-button">Prev</div></td>
 				</tr>
 			</table>
 
 		</td>
-		<td class="control-cell">
+		<td class="control-cell control-cell-content">
 			<table class="wrapper">
 				<tr>
 					<td class="control-cell-inner control-content">
@@ -23,7 +23,7 @@
 				</tr>
 			</table>
 		</td>
-		<td class="control-cell">
+		<td class="control-cell control-cell-blank">
 
 			<table class="wrapper">
 				<tr>
@@ -31,10 +31,10 @@
 				</tr>
 			</table>
 		</td>
-		<td class="control-cell last">
+		<td class="control-cell control-cell-nav last">
 			<table class="wrapper">
 				<tr>
-					<td class="control-cell-inner control-next"><span id="nextslide"><span>Next</span></span></td>
+					<td class="control-cell-inner control-next"><div id="nextslide" class="control-button">Next</div></td>
 				</tr>
 			</table>
 		</td>

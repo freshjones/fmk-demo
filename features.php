@@ -25,6 +25,10 @@
 					<img src="images/feature-icon-0.png" alt="Featured Luxury Stock" />
 				</div>
 			
+				<div class="featured-image">
+					<div class="featured-image-inner"><img src="images/featured-luxury.png" alt="Featured Luxury Stock"  /></div>
+				</div>
+
 			</div>
 		
 			<div class="feature feature-1">
@@ -43,6 +47,10 @@
 					<img src="images/feature-icon-1.png" alt="Featured Luxury Stock" />
 				</div>
 			
+				<div class="featured-image">
+					<div class="featured-image-inner"><img src="images/featured-luxury.png" alt="Featured Luxury Stock"  /></div>
+				</div>
+			
 			</div>
 			
 			<div class="feature feature-2" >
@@ -59,6 +67,10 @@
 				
 				<div class="featured-icon" >
 					<img src="images/feature-icon-2.png" alt="Featured Luxury Stock" />
+				</div>
+				
+				<div class="featured-image">
+					<div class="featured-image-inner"><img src="images/featured-luxury.png" alt="Featured Luxury Stock"  /></div>
 				</div>
 			
 			</div>
@@ -80,6 +92,10 @@
 					<img src="images/feature-icon-3.png" alt="Featured Luxury Stock" />
 				</div>
 			
+				<div class="featured-image">
+					<div class="featured-image-inner"><img src="images/featured-luxury.png" alt="Featured Luxury Stock"  /></div>
+				</div>
+			
 			</div>
 			
 			<div class="feature feature-4">
@@ -98,6 +114,10 @@
 					<img src="images/feature-icon-4.png" alt="Featured Luxury Stock" />
 				</div>
 			
+				<div class="featured-image">
+					<div class="featured-image-inner"><img src="images/featured-luxury.png" alt="Featured Luxury Stock"  /></div>
+				</div>
+			
 			</div>
 			
 			<div class="feature feature-5">
@@ -106,12 +126,16 @@
 					<div class="subhead">Featuring</div>
 					<div class="head">Securalin</div>
 					<ul class="menu">
-						<li class="first"><a href="/">Overview</a></li>
+						<li class="first last"><a href="/">Overview</a></li>
 					</ul>
 				</div>
 				
 				<div class="featured-icon" >
 					<img src="images/feature-icon-5.png" alt="Featured Luxury Stock" />
+				</div>
+			
+				<div class="featured-image">
+					<div class="featured-image-inner"><img src="images/featured-luxury.png" alt="Featured Luxury Stock"  /></div>
 				</div>
 			
 			</div>
@@ -122,12 +146,16 @@
 					<div class="subhead">Featuring</div>
 					<div class="head">General Purpose Tape Base</div>
 					<ul class="menu">
-						<li class="first"><a href="/">Overview</a></li>
+						<li class="first last"><a href="/">Overview</a></li>
 					</ul>
 				</div>
 				
 				<div class="featured-icon" >
 					<img src="images/feature-icon-6.png" alt="Featured Luxury Stock" />
+				</div>
+			
+				<div class="featured-image">
+					<div class="featured-image-inner"><img src="images/featured-luxury.png" alt="Featured Luxury Stock"  /></div>
 				</div>
 			
 			</div>
@@ -138,12 +166,16 @@
 					<div class="subhead">Featuring</div>
 					<div class="head">Arbelave Library Buckram<sup>&reg;</sup></div>
 					<ul class="menu">
-						<li class="first"><a href="/">Overview</a></li>
+						<li class="first last"><a href="/">Overview</a></li>
 					</ul>
 				</div>
 				
 				<div class="featured-icon" >
 					<img src="images/feature-icon-7.png" alt="Featured Luxury Stock" />
+				</div>
+			
+				<div class="featured-image">
+					<div class="featured-image-inner"><img src="images/featured-luxury.png" alt="Featured Luxury Stock"  /></div>
 				</div>
 			
 			</div>
@@ -153,6 +185,3 @@
 	</div>
 </div>
 	
-<div class="featured-image">
-	<div class="featured-image-inner"><img src="images/featured-luxury.png" alt="Featured Luxury Stock"  /></div>
-</div>

@@ -4,7 +4,7 @@
 		
 		<div class="spotlight-group spotlight-group-0">
 		
-			<div class="spotlight">
+			<div class="spotlight first">
 				<div class="spotlight-image"><img src="images/spotlight-0-0.png" alt="Spotlight One" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">FiberMark Faces</div>
@@ -20,7 +20,7 @@
 				</div>
 			</div>
 		
-			<div class="spotlight">
+			<div class="spotlight last">
 				<div class="spotlight-image"><img src="images/spotlight-0-2.png" alt="Spotlight Three" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">Inspiration</div>
@@ -32,7 +32,7 @@
 		
 		<div class="spotlight-group spotlight-group-1">
 		
-			<div class="spotlight">
+			<div class="spotlight first">
 				<div class="spotlight-image"><img src="images/spotlight-1-0.png" alt="Spotlight One" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">FiberMark Faces</div>
@@ -48,7 +48,7 @@
 				</div>
 			</div>
 		
-			<div class="spotlight">
+			<div class="spotlight last">
 				<div class="spotlight-image"><img src="images/spotlight-1-2.png" alt="Spotlight Three" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">New Colors</div>
@@ -60,7 +60,7 @@
 		
 		<div class="spotlight-group spotlight-group-2">
 		
-			<div class="spotlight">
+			<div class="spotlight first">
 				<div class="spotlight-image"><img src="images/spotlight-2-0.png" alt="Spotlight One" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">One-Of-A-Kind</div>
@@ -76,7 +76,7 @@
 				</div>
 			</div>
 		
-			<div class="spotlight">
+			<div class="spotlight last">
 				<div class="spotlight-image"><img src="images/spotlight-2-2.png" alt="Spotlight Three" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">Inspiration</div>
@@ -88,7 +88,7 @@
 		
 		<div class="spotlight-group spotlight-group-3">
 		
-			<div class="spotlight">
+			<div class="spotlight first">
 				<div class="spotlight-image"><img src="images/spotlight-3-0.png" alt="Spotlight One" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">FiberMark Faces</div>
@@ -104,7 +104,7 @@
 				</div>
 			</div>
 		
-			<div class="spotlight">
+			<div class="spotlight last">
 				<div class="spotlight-image"><img src="images/spotlight-3-2.png" alt="Spotlight Three" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">Inspirations</div>
@@ -116,7 +116,7 @@
 		
 		<div class="spotlight-group spotlight-group-4">
 		
-			<div class="spotlight">
+			<div class="spotlight first">
 				<div class="spotlight-image"><img src="images/spotlight-4-0.png" alt="Spotlight One" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">Browse By</div>
@@ -132,7 +132,7 @@
 				</div>
 			</div>
 		
-			<div class="spotlight">
+			<div class="spotlight last">
 				<div class="spotlight-image"><img src="images/spotlight-4-2.png" alt="Spotlight Three" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">Explore All</div>
@@ -144,7 +144,7 @@
 		
 		<div class="spotlight-group spotlight-group-5">
 		
-			<div class="spotlight">
+			<div class="spotlight first">
 				<div class="spotlight-image"><img src="images/spotlight-5-0.png" alt="Spotlight One" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">Announcing</div>
@@ -160,7 +160,7 @@
 				</div>
 			</div>
 		
-			<div class="spotlight">
+			<div class="spotlight last">
 				<div class="spotlight-image"><img src="images/spotlight-5-2.png" alt="Spotlight Three" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">About</div>
@@ -172,7 +172,7 @@
 		
 		<div class="spotlight-group spotlight-group-6">
 		
-			<div class="spotlight">
+			<div class="spotlight first">
 				<div class="spotlight-image"><img src="images/spotlight-6-0.png" alt="Spotlight One" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">Naturally Creative</div>
@@ -188,7 +188,7 @@
 				</div>
 			</div>
 		
-			<div class="spotlight">
+			<div class="spotlight last">
 				<div class="spotlight-image"><img src="images/spotlight-6-2.png" alt="Spotlight Three" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">Company</div>
@@ -200,7 +200,7 @@
 		
 		<div class="spotlight-group spotlight-group-7">
 		
-			<div class="spotlight">
+			<div class="spotlight first">
 				<div class="spotlight-image"><img src="images/spotlight-7-0.png" alt="Spotlight One" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">About</div>
@@ -216,7 +216,7 @@
 				</div>
 			</div>
 		
-			<div class="spotlight">
+			<div class="spotlight last">
 				<div class="spotlight-image"><img src="images/spotlight-7-2.png" alt="Spotlight Three" /></div>
 				<div class="spotlight-content">
 					<div class="subhead">View</div>

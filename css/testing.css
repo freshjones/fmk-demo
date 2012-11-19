@@ -5,8 +5,8 @@
 	background:#ffcc00;	
 }
 
-.top-spotlights {
-	background:grey;
+.top-spotlights-inner {
+	background:lightblue;
 }
 
 .bottom-spotlights {
@@ -26,4 +26,15 @@
 .control-table
 {
 	/* background:red; */
+}
+
+.spotlights
+{
+	border:2px solid #fff;
+}
+
+.spotlight
+{
+	border:2px solid #fc0;
+	background:#ccc;
 }
